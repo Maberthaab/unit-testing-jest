@@ -7,3 +7,11 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+
+#Cara Run Repository ini
+1. npm install
+2. npm test
+
+#Deploy ke netlify
+https://unit-testing-jest.netlify.app/
